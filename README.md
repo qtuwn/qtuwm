@@ -8,8 +8,8 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=qtuwm&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/qtuwm)
-[![GitHub followers](https://img.shields.io/github/followers/qtuwm?style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/qtuwm?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=qtuwn&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/qtuwn)
+[![GitHub followers](https://img.shields.io/github/followers/qtuwn?style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/qtuwn?tab=followers)
 
 </div>
 
@@ -19,11 +19,11 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-🇻🇳 **Xin chào! Tôi là Tuấn (qtuwm)**
+🇻🇳 **Xin chào! Tôi là Tuấn (qtuwn)**
 
 > _Một lập trình viên đam mê xây dựng các ứng dụng thực tế với code sạch và kiến trúc rõ ràng._
 
-🌏 **Hello! I'm Tuan (qtuwm)** — A passionate developer building real-world applications.
+🌏 **Hello! I'm Tuan (qtuwn)** — A passionate developer building real-world applications.
 
 - 💼 **Focus:** Web & Mobile Development, Desktop Apps
 - 🔧 **Experience:** C# WinForms, ASP.NET, PHP/WordPress, React/Node.js
@@ -104,12 +104,12 @@
 <div align="center">
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=qtuwm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&cache_seconds=1800&v=1" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qtuwm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800&v=1" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=qtuwn&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qtuwn&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" alt="Top Languages"/>
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qtuwm&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qtuwn&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 </div>
@@ -120,9 +120,9 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/qtuwm/qtuwm/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/qtuwn/qtuwn/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
-<img src="https://raw.githubusercontent.com/qtuwm/qtuwm/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark"/>
+<img src="https://raw.githubusercontent.com/qtuwn/qtuwn/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark"/>
 
 </div>
 
@@ -149,7 +149,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu%E1%BA%A5n-qu%E1%BB%91c-866a63251)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/quoctuan.tu.98/?locale=vi_VN)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuquoctuan201@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qtuwm)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qtuwn)
 
 </div>
 
