@@ -104,12 +104,12 @@
 <div align="center">
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=qtuwn&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qtuwn&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=qtuwn&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&v=2" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qtuwn&layout=compact&theme=tokyonight&v=2" alt="Top Languages"/>
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qtuwn&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qtuwn&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak"/>
 </p>
 
 </div>
