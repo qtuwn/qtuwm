@@ -99,7 +99,31 @@
 
 ---
 
-## 📊 GitHub Stats
+## � Activity Overview
+
+<div align="center">
+  <a href="https://github.com/qtuwn">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=qtuwn&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qtuwn&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qtuwn&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qtuwn&theme=tokyonight" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qtuwn&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qtuwn&theme=tokyonight&utcOffset=7" alt="Productive Time" />
+</div>
+
+---
+
+## �📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/qtuwn">
