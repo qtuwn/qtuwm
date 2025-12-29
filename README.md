@@ -101,18 +101,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qtuwn&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&v=2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qtuwn&layout=compact&theme=tokyonight&v=2)
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=qtuwn&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&v=2" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qtuwn&layout=compact&theme=tokyonight&v=2" alt="Top Languages"/>
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qtuwn&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak"/>
-</p>
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=qtuwn&theme=tokyonight&hide_border=true&v=2)
 
 ---
 
@@ -132,12 +124,12 @@
 
 <div align="center">
 
-| 🏷️ Project | 📝 Description | 🛠️ Tech |
-|:---:|:---|:---:|
-| [**📱 Calories-App**](https://github.com/qtuwn/Calories-App) | Mobile app for tracking daily calories and nutrition | `Flutter` `Dart` `Firebase` |
-| [**🧋 MilkTeaManager**](https://github.com/qtuwn/MilkTeaManager) | Desktop management system for milk tea shop operations | `C#` `WinForms` `.NET` `SQL Server` |
-| [**💬 ecommerce-live-support**](https://github.com/qtuwn/ecommerce-live-support) | Real-time live chat support for e-commerce platforms | `Node.js` `React` `Socket.IO` `MongoDB` |
-| [**🏠 websitenoithat_hanokihome**](https://github.com/qtuwn/websitenoithat_hanokihome) | Furniture e-commerce website | `PHP` `MySQL` `WordPress` |
+|                                       🏷️ Project                                       | 📝 Description                                         |                 🛠️ Tech                 |
+| :------------------------------------------------------------------------------------: | :----------------------------------------------------- | :-------------------------------------: |
+|              [**📱 Calories-App**](https://github.com/qtuwn/Calories-App)              | Mobile app for tracking daily calories and nutrition   |       `Flutter` `Dart` `Firebase`       |
+|            [**🧋 MilkTeaManager**](https://github.com/qtuwn/MilkTeaManager)            | Desktop management system for milk tea shop operations |   `C#` `WinForms` `.NET` `SQL Server`   |
+|    [**💬 ecommerce-live-support**](https://github.com/qtuwn/ecommerce-live-support)    | Real-time live chat support for e-commerce platforms   | `Node.js` `React` `Socket.IO` `MongoDB` |
+| [**🏠 websitenoithat_hanokihome**](https://github.com/qtuwn/websitenoithat_hanokihome) | Furniture e-commerce website                           |        `PHP` `MySQL` `WordPress`        |
 
 </div>
 
@@ -147,13 +139,13 @@
 
 <div align="center">
 
-| 🏷️ Project | 📝 Description | 🛠️ Tech |
-|:---:|:---|:---:|
-| [**🍽️ DinerChill**](https://github.com/NotVNT/DinerChill) | Restaurant ordering and management system | `C#` `.NET` `SQL Server` |
-| [**🧋 MilkTea**](https://github.com/NotVNT/MilkTea) | Milk tea shop management application | `C#` `WinForms` `.NET` |
-| [**📋 MilkTeaOrder**](https://github.com/NotVNT/MilkTeaOrder) | Order processing system for milk tea shops | `C#` `.NET` `SQL Server` |
-| [**🥤 OrderMilkTeaProgram**](https://github.com/Vizzy-san/OrderMilkTeaProgram) | Milk tea ordering program | `C#` `WinForms` `.NET` |
-| [**🛋️ FurnitureStore**](https://github.com/NotVNT/FurnitureStore) | Furniture store management system | `C#` `.NET` `SQL Server` |
+|                                   🏷️ Project                                   | 📝 Description                             |         🛠️ Tech          |
+| :----------------------------------------------------------------------------: | :----------------------------------------- | :----------------------: |
+|           [**🍽️ DinerChill**](https://github.com/NotVNT/DinerChill)            | Restaurant ordering and management system  | `C#` `.NET` `SQL Server` |
+|              [**🧋 MilkTea**](https://github.com/NotVNT/MilkTea)               | Milk tea shop management application       |  `C#` `WinForms` `.NET`  |
+|         [**📋 MilkTeaOrder**](https://github.com/NotVNT/MilkTeaOrder)          | Order processing system for milk tea shops | `C#` `.NET` `SQL Server` |
+| [**🥤 OrderMilkTeaProgram**](https://github.com/Vizzy-san/OrderMilkTeaProgram) | Milk tea ordering program                  |  `C#` `WinForms` `.NET`  |
+|       [**🛋️ FurnitureStore**](https://github.com/NotVNT/FurnitureStore)        | Furniture store management system          | `C#` `.NET` `SQL Server` |
 
 </div>
 
