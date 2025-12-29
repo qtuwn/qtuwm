@@ -102,10 +102,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=qtuwn&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=21600" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qtuwn&layout=compact&theme=tokyonight&cache_seconds=21600" />
+  <img height="165" src="./stats/github-stats.svg" alt="GitHub Stats" />
+  <img height="165" src="./stats/top-langs.svg" alt="Top Languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=qtuwn&theme=tokyonight&hide_border=true" />
+  <img src="./stats/streak.svg" alt="GitHub Streak" />
 </div>
 
 ---
